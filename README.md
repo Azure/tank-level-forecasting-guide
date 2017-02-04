@@ -18,11 +18,11 @@ The Cortana Intelligence Suite is adaptable and can be customized to meet differ
 ## Solution Dashboard
 The snapshot below shows an example PowerBI dashboard that gives insights into the tank levels and solution.
 
-![Dashboard](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/Technical%20Deployment%20Guide/images/pbi-tanklevelforecast.PNG)
+![Dashboard](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/tree/master/Technical%20Deployment%20Guide/images/pbi-tanklevelforecast.PNG)
 
 ## Solution Architecture
-The diagram below shows the solution architecture, which is described in more detail in the [Technical Deployment Guide](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/Technical%20Deployment%20Guide) folder.
-![Solution Architecture](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/Technical%20Deployment%20Guide/images/Tank%20Architecture.PNG?raw=true)
+The diagram below shows the solution architecture, which is described in more detail in the [Technical Deployment Guide](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/tree/master/Technical%20Deployment%20Guide) folder.
+![Solution Architecture](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/tree/master/Technical%20Deployment%20Guide/images/Tank%20Architecture.PNG?raw=true)
 
 
 # Getting Started #
@@ -31,7 +31,7 @@ This solution package contains materials to help both technical and business aud
 
 # Business Audiences
 
-In this repository you will find a folder labeled [Solution Overview for Business Audiences](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/Solution%20Overview%20for%20Business%20Audiences). This folder contains:
+In this repository you will find a folder labeled [Solution Overview for Business Audiences](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/tree/master/Solution%20Overview%20for%20Business%20Audiences). This folder contains:
 - Infographic: covers the benefits of using advanced analytics for tank level forecasting in the oil and gas industry
 - Solution At-A-Glance: an introduction to a Cortana Intelligence Suite solution for tank level forecasting
 - Walking Deck
@@ -40,7 +40,7 @@ For more information on how to tailor Cortana Intelligence to your needs [connec
 
 # Technical Audiences
 
-See the [Technical Deployment Guide](Technical%20Deployment%20Guide) folder for a full set of instructions on how to put together and deploy a tank level forecasting solution using the Cortana Intelligence Suite. <!--The **Developer Journey Map** included there walks through the different components created as part of the end-to-end solution.-->
+See the [Technical Deployment Guide](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/tree/master/Technical%20Deployment%20Guide) folder for a full set of instructions on how to put together and deploy a tank level forecasting solution using the Cortana Intelligence Suite. <!--The **Developer Journey Map** included there walks through the different components created as part of the end-to-end solution.-->
 
 For technical problems or questions about deploying this solution, please post in the issues tab of the repository.
 
