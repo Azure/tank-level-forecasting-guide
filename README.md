@@ -18,11 +18,11 @@ The Cortana Intelligence Suite is adaptable and can be customized to meet differ
 ## Solution Dashboard
 The snapshot below shows an example PowerBI dashboard that gives insights into the tank levels and solution.
 
-![Dashboard](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/tree/master/Technical%20Deployment%20Guide/images/pbi-tanklevelforecast.PNG)
+![Dashboard](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/blob/master/Technical%20Deployment%20Guide/images/PBI-dashboard.PNG)
 
 ## Solution Architecture
 The diagram below shows the solution architecture, which is described in more detail in the [Technical Deployment Guide](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/tree/master/Technical%20Deployment%20Guide) folder.
-![Solution Architecture](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/tree/master/Technical%20Deployment%20Guide/images/Tank%20Architecture.PNG?raw=true)
+![Solution Architecture](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/blob/master/Technical%20Deployment%20Guide/images/Tank%20Architecture.PNG)
 
 
 # Getting Started #
