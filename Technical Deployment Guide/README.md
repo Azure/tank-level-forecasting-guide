@@ -4,7 +4,7 @@
 ===============
 Today, most facilities operate reactively to problems in tank levels. This often leads to spills, emergency shutdowns, expensive remediation costs, regulatory issues, costly repairs and fines. Tank level forecasting allows facilities to manage and abate these and other problems. The tank level forecasting process starts at the well input. The oil, water, and gas mixture is measured as it comes into the facility via meters, is separated into its components, and the oil is sent to tanks. Levels are monitored and recorded in tanks during the refining process and then oil, gas, and water output are recorded via sensors, meters, and records. Forecasts are then made using data from the facility, every 15 minutes for example. 
 
-For a more detailed description, please see the [solution description](https://github.com/Azure/cortana-intelligence-tank-level-forecasting-solution/blob/master/Technical%20Deployment%20Guide/SolutionDescription.md).
+For a more detailed description, please see the [solution description](https://github.com/Azure/cortana-intelligence-tank-level-forecasting/blob/master/Technical%20Deployment%20Guide/SolutionDescription.md).
 
 2. Solution Architecture
 =====================================
